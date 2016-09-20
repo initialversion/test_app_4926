@@ -1,0 +1,1 @@
+json.array! @whateveraskjhdasdks, partial: 'whateveraskjhdasdks/whateveraskjhdasdk', as: :whateveraskjhdasdk

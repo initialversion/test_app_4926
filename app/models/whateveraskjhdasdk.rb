@@ -1,0 +1,2 @@
+class Whateveraskjhdasdk < ApplicationRecord
+end
